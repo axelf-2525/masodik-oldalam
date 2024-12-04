@@ -1,0 +1,7 @@
+@media only screen and (max-width: 768px) {
+    nav ul li {
+        display: block;
+        text-align: center;
+        margin: 10px 0;
+    }
+}
